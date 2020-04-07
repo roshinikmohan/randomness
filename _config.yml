@@ -28,7 +28,7 @@ twitter_username: bluemoon_3
 github_username:  roshinikmohan
 
 # Build settings
-theme: jekyll-theme-cayman-blog
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
